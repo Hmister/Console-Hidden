@@ -1,0 +1,11 @@
+C:\Users\galaxis\Desktop\test_console\test_console\bin\Debug\test_console.exe.config
+C:\Users\galaxis\Desktop\test_console\test_console\bin\Debug\test_console.exe
+C:\Users\galaxis\Desktop\test_console\test_console\bin\Debug\test_console.pdb
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.Form1.resources
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.Properties.Resources.resources
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.csproj.GenerateResource.cache
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.csproj.CoreCompileInputs.cache
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.exe
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.pdb
+C:\Users\galaxis\Desktop\test_console\test_console\obj\Debug\test_console.csproj.AssemblyReference.cache
